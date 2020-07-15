@@ -1,0 +1,24 @@
+p{
+    font-weight: bolder;
+    color: lightblue;
+    font: italic;
+    letter-spacing: 3px;
+    
+    
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+    color: magenta;
+}
+
+h2{
+    color: lightsalmon;
+    letter-spacing: 3px;
+}
+
+style{
+    font: icon;
+    color: maroon;
+}
